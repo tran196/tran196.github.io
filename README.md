@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anthony Tran's GitHub 
 
 You can use the [editor on GitHub](https://github.com/tran196/tran196.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
