@@ -31,7 +31,7 @@ Syntax highlighted code block
 ```
 
 ```markdown
-std:: cout << "Hello World">>
+std:: cout << "Hello World"; 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
