@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/tran196/tran196.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Testing [Personal Projects](https://github.com/tran196/tran196.github.io/tree/master/personalProjects)
+Testing [Personal Projects](https://github.com/tran196/tran196.github.io/tree/master/personalProjects).
 
 Testing about me page [about me](https://github.com/tran196/tran196.github.io/blob/master/about.md)
 
